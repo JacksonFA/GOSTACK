@@ -34,6 +34,11 @@
       "react-hooks/exhaustive-deps": "warn",
       "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
       "import/prefer-default-export": "off",
+      "react/jsx-props-no-spreading": "off",
+      "@typescript-eslint/ban-types": "off",
+      "no-unused-expressions": "off",
+      "no-console": "off",
+      "react/prop-types": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
