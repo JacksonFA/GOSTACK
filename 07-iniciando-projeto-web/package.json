@@ -62,5 +62,13 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.0",
     "prettier": "^2.0.5"
+  },
+  "guppy": {
+    "id": "77dd3470-d053-11ea-af7c-8f4b396308b9",
+    "name": "07-iniciando-projeto-web",
+    "type": "create-react-app",
+    "color": "#C51162",
+    "icon": "./static/media/icon_fist.ce991694.jpg",
+    "createdAt": 1595886750018
   }
 }
