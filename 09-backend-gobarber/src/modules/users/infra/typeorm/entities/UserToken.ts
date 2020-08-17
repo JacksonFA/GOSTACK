@@ -4,12 +4,10 @@ import {
   PrimaryGeneratedColumn,
   CreateDateColumn,
   UpdateDateColumn,
-  OneToOne,
-  JoinColumn,
   Generated,
 } from 'typeorm';
 
-import User from '@modules/users/infra/typeorm/entities/User';
+// import User from '@modules/users/infra/typeorm/entities/User';
 
 @Entity('user_tokens')
 class UserToken {
